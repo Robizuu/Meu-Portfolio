@@ -28,7 +28,7 @@ body {
 
 .cabecalho__menu {
     display: flex;
-    gap: 80px;
+    gap: 50px;
 }
 
 .cabecalho__menu__link {
@@ -169,5 +169,8 @@ body {
     .apresentacao__curriculo {
         width: auto;
     }
-}
 
+    .apresentacao__conteudo__minhafoto {
+        width: 100%;
+    }
+}
